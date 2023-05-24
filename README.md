@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cocomango-GH=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cocomango-GH=tokyonight&hide_border=true)<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocomango-GH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
