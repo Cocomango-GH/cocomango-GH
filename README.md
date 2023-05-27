@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sasha+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Sasha Welcome to my Profile! animated typed out">
 
-![1](https://github.com/Cocomango-GH/cocomango-GH/assets/111953271/d38cc321-f901-48c0-90b2-9c088d1053fb)
+![1]( width=”200" height=”200" https://github.com/Cocomango-GH/cocomango-GH/assets/111953271/d38cc321-f901-48c0-90b2-9c088d1053fb)
 
 
 
