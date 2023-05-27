@@ -3,12 +3,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sasha+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Sasha Welcome to my Profile! animated typed out">
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+    <img src="https://komarev.com/ghpvc/?username=Cocomangp-GH&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
 <img  src="assests/borderseperator.gif">
 
-### Hi there 👋
+
 
 <!--
 **Cocomango-GH/cocomango-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
