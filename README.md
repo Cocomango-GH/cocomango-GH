@@ -1,6 +1,6 @@
-![sasha](https://github.com/Cocomango-GH/cocomango-GH/assets/111953271/9c8d7728-06ab-4e55-b914-98ea98ddfd6b)
-
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Sasha+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Sasha Welcome to my Profile! animated typed out">
+
+![sasha](https://github.com/Cocomango-GH/cocomango-GH/assets/111953271/9c8d7728-06ab-4e55-b914-98ea98ddfd6b)
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Cocomangp-GH&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
