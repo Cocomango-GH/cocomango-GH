@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Techincal Skills 
+## :briefcase: Techincal Skills 
 <div align="center">
 	<table>
 		<tr>
