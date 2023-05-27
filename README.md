@@ -2,7 +2,7 @@
 <img  src="assests/borderseperator.gif">
 
 
-![sasha](https://github.com/Cocomango-GH/cocomango-GH/assets/111953271/9c8d7728-06ab-4e55-b914-98ea98ddfd6b)
+<!-- ![sasha](https://github.com/Cocomango-GH/cocomango-GH/assets/111953271/9c8d7728-06ab-4e55-b914-98ea98ddfd6b) -->
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Cocomangp-GH&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
