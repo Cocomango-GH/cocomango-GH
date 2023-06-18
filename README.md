@@ -55,9 +55,11 @@ Here are some ideas to get you started:
 			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="Chai" title="Chai"/></code></td>
 			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/></code></td>
 			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
+			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code></td>
 		</tr>
 	</table>
 </div>
+
 
 ## 📊 GitHub Stats:
 ![Cocomango-GH's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocomango-GH&show_icons=true&theme=transparent)
