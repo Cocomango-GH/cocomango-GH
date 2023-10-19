@@ -3,9 +3,7 @@
 
 <!--banner need to remake -->
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Cocomangp-GH&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> <br>
+
 
 <img  src="assests/borderseperator.gif">
 
